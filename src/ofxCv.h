@@ -21,10 +21,10 @@
 #include "ofxCv/Distance.h" // edit distance
 #include "ofxCv/Calibration.h" // camera calibration
 #include "ofxCv/Tracker.h" // object tracking
-#include "ofxCv/ContourFinder.h" // contour finding and tracking
+//#include "ofxCv/ContourFinder.h" // contour finding and tracking
 #include "ofxCv/RunningBackground.h" // background subtraction
 #include "ofxCv/Flow.h" // optical flow, from james george
-#include "ofxCv/ObjectFinder.h" // object finding (e.g., face detection)
+//#include "ofxCv/ObjectFinder.h" // object finding (e.g., face detection)
 #include "ofxCv/Kalman.h" // Kalman filter for smoothing
 
 // <3 kyle
